@@ -48,7 +48,7 @@ No floor. No ceiling. A charity with a $0 budget competes on the same board as a
 
 | | Repo | What's in it |
 |---|---|---|
-| 🌐 | [`platform`](https://github.com/gofindone/platform) | The site — HTML, CSS, Netlify functions |
+| 🌐 | [`platform`](https://github.com/gofindone/platform) | The site — HTML, CSS, Cloudflare functions |
 | 📄 | [`docs`](https://github.com/gofindone/docs) | Strategy, operations, roadmap, brand |
 
 ---
